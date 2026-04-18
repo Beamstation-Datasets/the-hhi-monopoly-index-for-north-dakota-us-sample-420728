@@ -1,12 +1,12 @@
 {
-  "export_job_id": "67d74632-4acb-4067-99cb-f5c83c22de72",
+  "export_job_id": "c047f50f-5bd4-4c24-88bc-a3ef7c4bb291",
   "id_short": 420728,
-  "published_at": "2026-04-12T07:46:46Z",
+  "published_at": "2026-04-18T19:05:37Z",
   "repo_name": "the-hhi-monopoly-index-for-north-dakota-us-sample-420728",
   "sample_asset_name": "beamstation_420728_restaurants-us-nd_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/420728/beamstation_420728_restaurants-us-nd_SAMPLE_DIST.csv",
-  "sample_records": 3,
-  "sample_sha256": "efe8e3b0e0a495533c43f16229e34dd8486c55de41416c64d2072108b89eaeec",
-  "sample_size_bytes": 27419,
-  "total_records": 78
+  "sample_records": 8,
+  "sample_sha256": "d971d93bc273e88666cb151223862a605aeda2ec9e4cca071f120e3dbdcaad4b",
+  "sample_size_bytes": 49577,
+  "total_records": 80
 }
