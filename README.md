@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for North Dakota, US
 
-> Free BeamStation sample export with 3 rows and masked direct-contact fields.
+> Free BeamStation sample export with 8 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `420728` |
 | Location | North Dakota |
 | Category | Restaurants |
-| Full dataset size | 78 records |
-| Free sample size | 3 records (3.85%) |
-| Last export | 2026-04-01T00:32:57.663847+00:00 |
+| Full dataset size | 80 records |
+| Free sample size | 8 records (10.0%) |
+| Last export | 2026-04-15T02:30:09.581922+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-north-dakota-us-sample-420728/releases/download/sample-latest/beamstation_420728_restaurants-us-nd_SAMPLE_DIST.csv) |
 
 ## What is in this sample
